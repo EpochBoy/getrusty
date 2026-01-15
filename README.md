@@ -63,8 +63,9 @@ cargo test
 
 ### The Rust Programming Language
 
-- [ ] Chapter 1: Getting Started
-- [ ] Chapter 2: Programming a Guessing Game
+- [x] Chapter 1: Getting Started
+- [x] Chapter 2: Programming a Guessing Game
+- [ ] Chapter 3: Common Programming Concepts ← current
 - [ ] Chapter 3: Common Programming Concepts
 - [ ] Chapter 4: Understanding Ownership
 - [ ] Chapter 5: Using Structs
