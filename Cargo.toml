@@ -2,6 +2,6 @@
 resolver = "2"
 members = [
     "the-book/ch01/hello_cargo",
-    "the-book/ch02/guessing_game",
+    "the-book/ch02/guessing_game", "the-book/ch03/controlflow", "the-book/ch03/functions", "the-book/ch03/shadowing", "the-book/ch03/variables",
     # Add new projects here as you create them
 ]

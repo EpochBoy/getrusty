@@ -21,7 +21,8 @@ the-book/
 |----|-------------------------------------------------------------------------------------------------------------------------------------|--------|
 | 01 | [Getting Started](https://doc.rust-lang.org/stable/book/ch01-00-getting-started.html)                                               | ✅     |
 | 02 | [Guessing Game](https://doc.rust-lang.org/stable/book/ch02-00-guessing-game-tutorial.html)                                          | ✅     |
-| 03 | [Common Concepts](https://doc.rust-lang.org/stable/book/ch03-00-common-programming-concepts.html)                                   | 🚧     |
+| 03 | [Common Concepts](https://doc.rust-lang.org/stable/book/ch03-00-common-programming-concepts.html)                                   | ✅     |
+| 04 | [Understanding Ownership](https://doc.rust-lang.org/stable/book/ch04-00-understanding-ownership.html)                               | 🚧     |
 | 04 | [Ownership](https://doc.rust-lang.org/stable/book/ch04-00-understanding-ownership.html)                                             |        |
 | 05 | [Structs](https://doc.rust-lang.org/stable/book/ch05-00-structs.html)                                                               |        |
 | 06 | [Enums](https://doc.rust-lang.org/stable/book/ch06-00-enums.html)                                                                   |        |

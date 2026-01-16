@@ -65,7 +65,8 @@ cargo test
 
 - [x] Chapter 1: Getting Started
 - [x] Chapter 2: Programming a Guessing Game
-- [ ] Chapter 3: Common Programming Concepts ← current
+- [x] Chapter 3: Common Programming Concepts
+- [ ] Chapter 4: Understanding Ownership ← current
 - [ ] Chapter 3: Common Programming Concepts
 - [ ] Chapter 4: Understanding Ownership
 - [ ] Chapter 5: Using Structs
