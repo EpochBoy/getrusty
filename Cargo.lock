@@ -33,6 +33,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "danglingpointer"
+version = "0.1.0"
+
+[[package]]
 name = "functions"
 version = "0.1.0"
 
@@ -67,6 +71,10 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "bcc35a38544a891a5f7c865aca548a982ccb3b8650a5b06d0fd33a10283c56fc"
 
 [[package]]
+name = "ownership"
+version = "0.1.0"
+
+[[package]]
 name = "r-efi"
 version = "5.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -90,7 +98,23 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "f66ee92bc15280519ef199a274fe0cafff4245d31bc39aaa31c011ad56cb1f05"
 
 [[package]]
+name = "referenceexample"
+version = "0.1.0"
+
+[[package]]
+name = "scopeexample"
+version = "0.1.0"
+
+[[package]]
+name = "scopeexample2"
+version = "0.1.0"
+
+[[package]]
 name = "shadowing"
+version = "0.1.0"
+
+[[package]]
+name = "slice"
 version = "0.1.0"
 
 [[package]]
