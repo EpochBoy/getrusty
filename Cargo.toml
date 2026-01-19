@@ -1,7 +1,35 @@
 [workspace]
 resolver = "2"
 members = [
+    # Rustlings exercises
+    "rustlings",
+    
+    # The Book - Chapter 1
     "the-book/ch01/hello_cargo",
-    "the-book/ch02/guessing_game", "the-book/ch03/controlflow", "the-book/ch03/functions", "the-book/ch03/shadowing", "the-book/ch03/variables", "the-book/ch04/danglingpointer", "the-book/ch04/ownership", "the-book/ch04/referenceexample", "the-book/ch04/scopeexample", "the-book/ch04/scopeexample2", "the-book/ch04/slice",
+    
+    # The Book - Chapter 2
+    "the-book/ch02/guessing_game",
+    
+    # The Book - Chapter 3
+    "the-book/ch03/controlflow",
+    "the-book/ch03/functions",
+    "the-book/ch03/shadowing",
+    "the-book/ch03/variables",
+    
+    # The Book - Chapter 4
+    "the-book/ch04/danglingpointer",
+    "the-book/ch04/ownership",
+    "the-book/ch04/referenceexample",
+    "the-book/ch04/scopeexample",
+    "the-book/ch04/scopeexample2",
+    "the-book/ch04/slice",
+    
+    # The Book - Chapter 5
+    "the-book/ch05/methods",
+    "the-book/ch05/rectangles",
+    
+    # The Book - Chapter 6
+    "the-book/ch06/enum_example",
+    
     # Add new projects here as you create them
 ]

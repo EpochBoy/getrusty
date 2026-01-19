@@ -37,6 +37,14 @@ name = "danglingpointer"
 version = "0.1.0"
 
 [[package]]
+name = "enum_example"
+version = "0.1.0"
+
+[[package]]
+name = "exercises"
+version = "0.0.0"
+
+[[package]]
 name = "functions"
 version = "0.1.0"
 
@@ -71,6 +79,10 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "bcc35a38544a891a5f7c865aca548a982ccb3b8650a5b06d0fd33a10283c56fc"
 
 [[package]]
+name = "methods"
+version = "0.1.0"
+
+[[package]]
 name = "ownership"
 version = "0.1.0"
 
@@ -96,6 +108,10 @@ name = "rand_core"
 version = "0.10.0-rc-3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "f66ee92bc15280519ef199a274fe0cafff4245d31bc39aaa31c011ad56cb1f05"
+
+[[package]]
+name = "rectangles"
+version = "0.1.0"
 
 [[package]]
 name = "referenceexample"

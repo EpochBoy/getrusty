@@ -1,91 +1,62 @@
 # 🦀 Get Rusty
 
-A personal learning repository for working through Rust tutorials and examples.
+Personal learning repository for Rust.
 
-## Learning Resources
+## Progress
 
-### Primary
+| Ch  | Topic                       | Rustlings             | Book | Ex   |
+|-----|-----------------------------|-----------------------|------|------|
+| 1-3 | Getting Started & Basics    | 1-22                  | done | done |
+| 4   | Understanding Ownership     | 25-29                 | done | done |
+| 5   | Using Structs               | 30-32                 | done | done |
+| 6   | Enums and Pattern Matching  | 33-35, 46-48          | done |      |
+| 7   | Packages & Modules          | 40-42                 |      |      |
+| 8   | Common Collections          | 23-24, 36-39, 43-45   |      |      |
+| 9   | Error Handling              | 49-54                 |      |      |
+| 10  | Generics, Traits, Lifetimes | 55-64                 |      |      |
+| 11  | Writing Automated Tests     | 65-67                 |      |      |
+| 12  | CLI Project                 | —                     |      |      |
+| 13  | Iterators & Closures        | 68-72                 |      |      |
+| 14  | More about Cargo            | —                     |      |      |
+| 15  | Smart Pointers              | 73-76                 |      |      |
+| 16  | Fearless Concurrency        | 77-79                 |      |      |
+| 17  | Async and Await             | —                     |      |      |
+| 18  | OOP Features                | —                     |      |      |
+| 19  | Patterns and Matching       | —                     |      |      |
+| 20  | Advanced Features           | 80-91                 |      |      |
+| 21  | Final Project               | —                     |      |      |
+| —   | Quizzes                     | 92-94                 | —    |      |
 
-| Resource                          | Link                                                          | Description                                  |
-|-----------------------------------|---------------------------------------------------------------|----------------------------------------------|
-| **The Rust Programming Language** | [rust-book](https://doc.rust-lang.org/stable/book/)           | The official Rust book - comprehensive guide |
-| **Rust by Example**               | [rust-by-example](https://doc.rust-lang.org/rust-by-example/) | Learn Rust through runnable examples         |
-
-### Supplementary
-
-| Resource              | Link                                                 | Description                                   |
-|-----------------------|------------------------------------------------------|-----------------------------------------------|
-| Interactive Rust Book | [Brown University](https://rust-book.cs.brown.edu)   | The Rust Book with quizzes & visualizations   |
-| Rustlings             | [rustlings](https://github.com/rust-lang/rustlings)  | Small exercises to get used to Rust syntax    |
-| Rust Docs             | [std library](https://doc.rust-lang.org/std/)        | Standard library documentation                |
+---
 
 ## Repository Structure
 
 ```text
 getrusty/
-├── the-book/           # The Rust Programming Language exercises
-│   ├── ch01/           # Chapter 1: Getting Started
-│   ├── ch02/           # Chapter 2: Guessing Game
-│   └── ...
-├── by-example/         # Rust by Example exercises
-│   ├── 01-hello/
-│   ├── 02-primitives/
-│   └── ...
-└── playground/         # Scratch space for experiments
+├── the-book/       # Book exercises
+├── rustlings/      # Rustlings (run: cd rustlings && rustlings)
+├── by-example/     # Reference examples
+└── playground/     # Scratch space
 ```
 
 ## Quick Commands
 
 ```bash
-# Create a new binary project
+# Rustlings
+cd rustlings && rustlings
+
+# Cargo
 cargo new project_name
-
-# Create a new library
-cargo new --lib library_name
-
-# Build
-cargo build
-
-# Build + run
 cargo run
-
-# Check (fast compile check without producing binary)
-cargo check
-
-# Format code
-cargo fmt
-
-# Run tests
 cargo test
 ```
 
-## Progress Tracker
+## Resources
 
-### The Rust Programming Language
-
-- [x] Chapter 1: Getting Started
-- [x] Chapter 2: Programming a Guessing Game
-- [x] Chapter 3: Common Programming Concepts
-- [x] Chapter 4: Understanding Ownership
-- [ ] Chapter 3: Common Programming Concepts
-- [ ] Chapter 4: Understanding Ownership
-- [ ] Chapter 5: Using Structs
-- [ ] Chapter 6: Enums and Pattern Matching
-- [ ] Chapter 7: Managing Growing Projects
-- [ ] Chapter 8: Common Collections
-- [ ] Chapter 9: Error Handling
-- [ ] Chapter 10: Generic Types, Traits, Lifetimes
-- [ ] Chapter 11: Writing Automated Tests
-- [ ] Chapter 12: An I/O Project: Building a Command Line Program
-- [ ] Chapter 13: Functional Language Features
-- [ ] Chapter 14: More about Cargo and Crates.io
-- [ ] Chapter 15: Smart Pointers
-- [ ] Chapter 16: Fearless Concurrency
-- [ ] Chapter 17: Async and Await
-- [ ] Chapter 18: Object-Oriented Programming Features
-- [ ] Chapter 19: Patterns and Matching
-- [ ] Chapter 20: Advanced Features
-- [ ] Chapter 21: Final Project: Building a Multithreaded Web Server
+- [The Rust Book](https://doc.rust-lang.org/stable/book/)
+- [Rustlings](https://github.com/rust-lang/rustlings)
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
+- [Rust Cheat Sheet](https://cheats.rs/)
 
 ---
 
