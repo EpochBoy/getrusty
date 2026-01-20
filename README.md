@@ -10,7 +10,7 @@ Personal learning repository for Rust.
 | 4   | Understanding Ownership     | 25-29                 | done | done |
 | 5   | Using Structs               | 30-32                 | done | done |
 | 6   | Enums and Pattern Matching  | 33-35, 46-48          | done |      |
-| 7   | Packages & Modules          | 40-42                 |      |      |
+| 7   | Packages & Modules          | 40-42                 | done |      |
 | 8   | Common Collections          | 23-24, 36-39, 43-45   |      |      |
 | 9   | Error Handling              | 49-54                 |      |      |
 | 10  | Generics, Traits, Lifetimes | 55-64                 |      |      |

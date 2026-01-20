@@ -29,7 +29,7 @@ members = [
     "the-book/ch05/rectangles",
     
     # The Book - Chapter 6
-    "the-book/ch06/enum_example",
+    "the-book/ch06/enum_example", "the-book/ch07/structs_enums_accessors",
     
     # Add new projects here as you create them
 ]
