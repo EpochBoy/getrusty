@@ -51,9 +51,15 @@ cargo run
 cargo test
 ```
 
+## Documentation
+
+- [Rust Docs](https://docs.rs/)
+- [Rust Standard Library](https://doc.rust-lang.org/stable/std/index.html)
+
 ## Resources
 
 - [The Rust Book](https://doc.rust-lang.org/stable/book/)
+- [Rustonomicon](https://doc.rust-lang.org/stable/nomicon/)
 - [Rustlings](https://github.com/rust-lang/rustlings)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [Rust Cheat Sheet](https://cheats.rs/)
