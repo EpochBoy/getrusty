@@ -29,7 +29,11 @@ members = [
     "the-book/ch05/rectangles",
     
     # The Book - Chapter 6
-    "the-book/ch06/enum_example", "the-book/ch07/structs_enums_accessors",
-    
-    # Add new projects here as you create them
+    "the-book/ch06/enum_example",
+
+    # The Book - Chapter 7
+    "the-book/ch07/structs_enums_accessors",
+
+    # The Book - Chapter 8
+    "the-book/ch08/hashmaps", "the-book/ch08/nested_structures",
 ]
