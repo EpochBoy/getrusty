@@ -53,8 +53,12 @@ cargo test
 
 ## Documentation
 
-- [Rust Docs](https://docs.rs/)
-- [Rust Standard Library](https://doc.rust-lang.org/stable/std/index.html)
+- [Rust Reference Docs](https://doc.rust-lang.org/reference/introduction.html)
+- [Rust Stable Standard Library](https://doc.rust-lang.org/stable/std/index.html)
+- [Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html)
+- [Rust Crate Docs](https://docs.rs/)
+- [Rust Cargo Docs](https://doc.rust-lang.org/cargo/index.html)
+- [Rust Unstable Library](https://doc.rust-lang.org/beta/unstable-book/)
 
 ## Resources
 

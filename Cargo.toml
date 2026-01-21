@@ -35,5 +35,8 @@ members = [
     "the-book/ch07/structs_enums_accessors",
 
     # The Book - Chapter 8
-    "the-book/ch08/hashmaps", "the-book/ch08/nested_structures",
+    "the-book/ch08/hashmaps", "the-book/ch08/nested_structures", "the-book/ch09/error_propagating",
+
+    # The Book - Chapter 9
+     "the-book/ch09/result_and_errors",
 ]

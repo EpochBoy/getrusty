@@ -41,6 +41,10 @@ name = "enum_example"
 version = "0.1.0"
 
 [[package]]
+name = "error_propagating"
+version = "0.1.0"
+
+[[package]]
 name = "exercises"
 version = "0.0.0"
 
@@ -123,6 +127,10 @@ version = "0.1.0"
 
 [[package]]
 name = "referenceexample"
+version = "0.1.0"
+
+[[package]]
+name = "result_and_errors"
 version = "0.1.0"
 
 [[package]]
