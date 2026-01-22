@@ -63,6 +63,7 @@ cargo test
 ## Resources
 
 - [The Rust Book](https://doc.rust-lang.org/stable/book/)
+- [Rust Brown University Book](https://rust-book.cs.brown.edu/)
 - [Rustonomicon](https://doc.rust-lang.org/stable/nomicon/)
 - [Rustlings](https://github.com/rust-lang/rustlings)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
