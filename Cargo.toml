@@ -39,4 +39,7 @@ members = [
 
     # The Book - Chapter 9
      "the-book/ch09/result_and_errors",
+
+    # The Book - Chapter 10
+    "the-book/ch10/generics_basics", "the-book/ch10/generics_exapanded", "the-book/ch10/generics_with_structs", "the-book/ch10/lifetimes",
 ]

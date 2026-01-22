@@ -53,6 +53,18 @@ name = "functions"
 version = "0.1.0"
 
 [[package]]
+name = "generics_basics"
+version = "0.1.0"
+
+[[package]]
+name = "generics_exapanded"
+version = "0.1.0"
+
+[[package]]
+name = "generics_with_structs"
+version = "0.1.0"
+
+[[package]]
 name = "getrandom"
 version = "0.4.0-rc.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -85,6 +97,10 @@ name = "libc"
 version = "0.2.180"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "bcc35a38544a891a5f7c865aca548a982ccb3b8650a5b06d0fd33a10283c56fc"
+
+[[package]]
+name = "lifetimes"
+version = "0.1.0"
 
 [[package]]
 name = "methods"
