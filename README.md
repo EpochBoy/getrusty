@@ -14,7 +14,7 @@ Personal learning repository for Rust.
 | 8   | Common Collections          | 23-24, 36-39, 43-45   | done | done |
 | 9   | Error Handling              | 50-54                 | done | done |
 | 10  | Generics, Traits, Lifetimes | 55-64                 | done | done |
-| 11  | Writing Automated Tests     | 65-67                 |      |      |
+| 11  | Writing Automated Tests     | 65-67                 | done | done |
 | 12  | CLI Project                 | —                     |      |      |
 | 13  | Iterators & Closures        | 68-72                 |      |      |
 | 14  | More about Cargo            | —                     |      |      |
