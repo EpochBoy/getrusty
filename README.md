@@ -16,7 +16,7 @@ Personal learning repository for Rust.
 | 10  | Generics, Traits, Lifetimes | 55-64                 | done | done |
 | 11  | Writing Automated Tests     | 65-67                 | done | done |
 | 12  | CLI Project                 | —                     |      |      |
-| 13  | Iterators & Closures        | 68-72                 |      |      |
+| 13  | Iterators & Closures        | 68-72                 | done | done |
 | 14  | More about Cargo            | —                     |      |      |
 | 15  | Smart Pointers              | 73-76                 |      |      |
 | 16  | Fearless Concurrency        | 77-79                 |      |      |

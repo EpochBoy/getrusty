@@ -24,6 +24,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "closures"
+version = "0.1.0"
+
+[[package]]
 name = "controlflow"
 version = "0.1.0"
 
@@ -94,6 +98,10 @@ version = "0.1.0"
 
 [[package]]
 name = "hello_cargo"
+version = "0.1.0"
+
+[[package]]
+name = "iterators"
 version = "0.1.0"
 
 [[package]]
