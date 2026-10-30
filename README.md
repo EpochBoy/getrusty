@@ -41,15 +41,29 @@ getrusty/
 
 ## Quick Commands
 
-```bash
-# Rustlings
-cd rustlings && rustlings
+Install [Rust through rustup](https://www.rust-lang.org/tools/install). The checked-in
+`rust-toolchain.toml` selects Rust 1.99.1, Clippy and rustfmt for this repository
+without changing your global default.
 
-# Cargo
-cargo new project_name
+The Rustlings course is already initialized. Install its compatible CLI from the
+repository root, then continue the existing exercises:
+
+```bash
+cargo install rustlings --version 6.5.0 --locked
+cd rustlings && rustlings
+```
+
+Run Cargo commands inside the book package you are studying:
+
+```bash
+cd the-book/ch13/iterators
 cargo run
 cargo test
 ```
+
+Unfinished exercises intentionally contain compiler errors. Keep their progress
+and solutions intact; do not reinitialize the course or use an all-workspace
+build as a repository health check.
 
 ## Documentation
 
